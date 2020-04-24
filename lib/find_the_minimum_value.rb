@@ -1,3 +1,9 @@
 def find_min_value(array)
-  coutnarray.min
+  count = 0
+  while count < array[count] do
+    if array[count] < array[count+1]
+      min = array[count]
+    end
+    count+=1
+  end
 end
